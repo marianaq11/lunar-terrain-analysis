@@ -1,0 +1,12 @@
+{
+  "sampled_cells": 16200,
+  "minimum_elevation_m": -7806.0,
+  "maximum_elevation_m": 9548.5,
+  "median_cell_elevation_m": -806.0,
+  "mean_cell_elevation_m": -530.2209567901234,
+  "area_weighted_mean_elevation_m": -255.64200458716036,
+  "cell_standard_deviation_m": 2202.62037443577,
+  "reference_radius_m": 1737400,
+  "sampling_step": 8,
+  "source_grid_cells": 1036800
+}

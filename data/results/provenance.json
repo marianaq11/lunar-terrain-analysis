@@ -1,0 +1,10 @@
+{
+  "LDEM_4.LBL": {
+    "url": "https://imbrium.mit.edu/DATA/LOLA_GDR/CYLINDRICAL/IMG/LDEM_4.LBL",
+    "sha256": "b5a197b4d417e3b5e0e84f8fe15f9a1d2203b8eb5d7213236c0ffbc86e940cc6"
+  },
+  "LDEM_4.IMG": {
+    "url": "https://imbrium.mit.edu/DATA/LOLA_GDR/CYLINDRICAL/IMG/LDEM_4.IMG",
+    "sha256": "972d66d7f330abca62abc21aae270661516c00dd1a881ec102b94df9563656b5"
+  }
+}
